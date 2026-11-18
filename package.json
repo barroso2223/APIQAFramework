@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/barroso2223/APIQAFramework/issues"
   },
-  "homepage": "https://github.com/barroso2223/APIQAFramework#readme"
+  "homepage": "https://github.com/barroso2223/APIQAFramework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1"
+  }
 }

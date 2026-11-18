@@ -1,0 +1,11 @@
+# Installed npm packages
+node_modules/
+
+# Playwright-generated test output
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# Local environment variables and secrets
+.env
