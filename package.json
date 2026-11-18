@@ -1,0 +1,21 @@
+{
+  "name": "apiqaframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barroso2223/APIQAFramework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/barroso2223/APIQAFramework/issues"
+  },
+  "homepage": "https://github.com/barroso2223/APIQAFramework#readme"
+}
